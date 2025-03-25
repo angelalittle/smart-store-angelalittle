@@ -1,17 +1,21 @@
-# This .gitignore file lists content that does NOT need to be tracked in the project history
+# .gitignore "dot gitignore" file 
+# Keeps files we don't write OUT of our project repository
 
-# Python virtual environment folder
+# Ignore our local project virtual environment folder
+# We can always delete and recreate it as needed
+# This is where our external dependency packages (e.g. pandas) reside
 .venv/
 
-# Visual Studio Code settings and workspace folder - Ignore entire .vscode folder except settings.json
-.vscode/*
-!.vscode/settings.json
+# Ignore Mac files
+.DS_Store
+.AppleDouble
+.LSOverride
 
-# Compiled Python files
+# Ignore Python cache files
 __pycache__/
 
-# macOS system files
-.DS_Store
-
-# Jupyter Notebook checkpoint files
-.ipynb_checkpoints
+# Ignore most of the .vscode folder, except for project-specific settings
+.vscode/*
+!.vscode/settings.json  # Include project-specific settings
+!.vscode/launch.json    # Include project-specific launch configurations if needed
+!.vscode/tasks.json     # Include project-specific tasks if needed
