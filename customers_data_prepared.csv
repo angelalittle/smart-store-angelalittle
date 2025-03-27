@@ -1,0 +1,12 @@
+CustomerID,Name,Region,JoinDate,EmailID,PointStatus
+1001,William White,East,11/11/2021,W.White@gmail.com,490
+1002,Wylie Coyote,East,2/14/2023,Wcoyote@gmail.com,582
+1003,Dan Brown,West,10/19/2023,Dbrown@gmail.com,671
+1004,Chewbacca,West,11/9/2022,Chewbacca@ggmail.com,900
+1005,Dr Who,North,8/18/2023,Drwho@gmail.com,50
+1006,Tiffany James,South,6/7/2021,Tjames@gmail.com,255
+1007,Susan Johnson,South,6/30/2023,Sjohnson@gmail.com,357
+1008,Tony Stark,North,5/1/2020,Tstark@gmail.com,684
+1009,Jason Bourne,West,12/1/2020,Jbourne@gmail.com,731
+1010,Hermione Granger,East,12/9/2022,Hergranger@gmail.com,365
+1011,Hermione Grager,East,12/9/2022,H.grager@gmail.com,451
