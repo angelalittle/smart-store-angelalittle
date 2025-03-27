@@ -1,5 +1,4 @@
 ProductID,ProductName,Category,UnitPrice,RebateAmount,Brand
-101,laptop,Electronics,793.12,100,HP
 102,hoodie,Clothing,39.1,0,Nike
 103,cable,Electronics,22.76,0,Tributaries
 104,hat,Clothing,43.1,0,Nike
