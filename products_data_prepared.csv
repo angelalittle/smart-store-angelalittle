@@ -1,0 +1,9 @@
+ProductID,ProductName,Category,UnitPrice,YearAdded,Brand
+101,laptop,Electronics,793.12,2024,Acer
+102,hoodie,Clothing,39.1,2020,FUBU
+103,cable,Electronics,22.76,2014,Southwire
+104,hat,Clothing,43.1,2016,nike
+105,football,Sports,19.78,2022,wilson
+106,controller,Electronics,88.98,2019,xbox
+107,jacket,Clothing,67.02,2017,columbia
+108,protector,Electronics,12.56,2023,zagg
